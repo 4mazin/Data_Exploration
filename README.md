@@ -1,4 +1,5 @@
 📊 Project 1: HouseData
+
 Description:
 This project performs exploratory data analysis (EDA) on a dataset of house sales using Python libraries such as pandas, seaborn, and matplotlib. The goal is to uncover patterns and trends in housing prices and attributes such as condition, grade, and year of sale.
 
