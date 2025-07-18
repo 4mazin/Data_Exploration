@@ -33,6 +33,8 @@ pandas, numpy, seaborn, matplotlib
 
 
 🏘️ Project 2: Exploring_Prices_Of_Egypt_Houses
+
+
 Description:
 This project explores a large dataset of house listings across Egyptian cities to identify average prices by city and property type. The analysis includes preprocessing to clean and standardize the data, and then visualizes key insights using bar plots.
 
